@@ -1,0 +1,8 @@
+.imagemBackground {
+  background-image: url('../../public/images/hero-image-1.png');
+  background-size:  auto; /* Para ajustar a imagem ao tamanho do elemento */
+  background-position: center; /* Centraliza a imagem horizontalmente e verticalmente */
+  height: 458px;
+
+   /* Define a altura como 100% da altura da viewport */
+}
