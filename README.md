@@ -13,9 +13,11 @@ The project involves the creation of a modern and captivating landing page for a
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](public/assets/gifmobile.gif)
+![App Screenshot](public/assets/videodesktop.gif)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
 
 
 ## Install and running project
